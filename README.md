@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" width="100%">
+</p>
+
 # Formal Verification Resources
 
 A curated resource list for learning formal verification across software, mathematics, and hardware.
